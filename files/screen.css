@@ -93,7 +93,7 @@ body:not(:-moz-handler-blocked) p.columNum span { top: -23px; }
 
 /* TEXT REPLACEMENT - UGLY */
 
-#text-home-title { width: 100%; height: 91px; background: transparent url("tod/home (2).png") 0 0 no-repeat; text-indent: -9999em!important; }
+#text-home-title { width: 100%; height: 91px; background: transparent url("tod/Home (2).png") 0 0 no-repeat; text-indent: -9999em!important; }
 #text-services-title { width: 100%; height: 217px; background: transparent url("tod/services (2).png") 0 0 no-repeat; text-indent: -9999em!important; }
 #text-team-title { width: 100%; height: 213px; background: transparent url("Untitled-1_17.png") 0 0 no-repeat; text-indent: -9999em!important; }
 #text-contact-title { width: 100%; height: 92px; background: transparent url("tod/contact (2).png") 0 0 no-repeat; text-indent: -9999em!important; }
